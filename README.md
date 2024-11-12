@@ -37,8 +37,8 @@ docker pull kevineduardo14/helloworldpython
 ~~~
 
 ## Imagen in Docker Hub
-~~~
+
 https://hub.docker.com/r/kevineduardo14/helloworldpython
-~~~
+
 # RailWay
 We log in and link to GitHub to deploy the repositories.
