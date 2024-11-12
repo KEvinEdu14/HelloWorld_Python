@@ -20,11 +20,11 @@ This is a simple Python project that prints "Hola Mundo" to the console.
 Run the following command in the project directory:
 
 ~~~
-docker build -t kevineduardo14/python_project .
+docker build -t kevineduardo14/helloworldpython .
 ~~~
 ## Run the Docker Container
 ~~~
-docker run kevineduardo14/python_project
+docker run kevineduardo14/helloworldpython
 ~~~
 
 ##Login the Docker Hub
